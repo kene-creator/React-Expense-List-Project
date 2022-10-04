@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kene-creator/public/static/css/main.23d0e837.chunk.css",
+    "main.js": "/kene-creator/public/static/js/main.35d3b1d2.chunk.js",
+    "main.js.map": "/kene-creator/public/static/js/main.35d3b1d2.chunk.js.map",
+    "runtime-main.js": "/kene-creator/public/static/js/runtime-main.e2854787.js",
+    "runtime-main.js.map": "/kene-creator/public/static/js/runtime-main.e2854787.js.map",
+    "static/js/2.33782d1c.chunk.js": "/kene-creator/public/static/js/2.33782d1c.chunk.js",
+    "static/js/2.33782d1c.chunk.js.map": "/kene-creator/public/static/js/2.33782d1c.chunk.js.map",
+    "index.html": "/kene-creator/public/index.html",
+    "static/css/main.23d0e837.chunk.css.map": "/kene-creator/public/static/css/main.23d0e837.chunk.css.map",
+    "static/js/2.33782d1c.chunk.js.LICENSE.txt": "/kene-creator/public/static/js/2.33782d1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2854787.js",
+    "static/js/2.33782d1c.chunk.js",
+    "static/css/main.23d0e837.chunk.css",
+    "static/js/main.35d3b1d2.chunk.js"
+  ]
+}
